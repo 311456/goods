@@ -1,4 +1,5 @@
 # goods
+基本模板：vue3 + axios + element plus（按需引入）  
 
 ## Project setup
 ```
